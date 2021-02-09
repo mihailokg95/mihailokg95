@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihailokg95" alt="mihailokg95" /></a> </p>
 
-- 🔭 I’m currently working on [a top secret project](Classified ;))
+- 🔭 I’m currently working on CRUD MERN app
 
 - 🌱 I’m currently learning **Node.js,Redux and Firebase**
 

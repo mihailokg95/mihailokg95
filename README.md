@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on CRUD MERN app
 
-- 🌱 I’m currently learning **Node.js,Redux and Firebase**
+- 🌱 I’m currently learning **GoLang,AWS and DynamoDB**
 
 - 👯 I’m looking to collaborate on **any project, hit me up.**
 

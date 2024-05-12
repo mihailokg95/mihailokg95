@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihailokg95" alt="mihailokg95" /></a> </p>
 
-- 🔭 I’m currently working on CRUD MERN app
+- 🔭 I’m currently working on Next.Js app
 
-- 🌱 I’m currently learning **GoLang,AWS and DynamoDB**
+- 🌱 I’m currently learning **GoLang, AWS and Kubernetes**
 
 - 👯 I’m looking to collaborate on **any project, hit me up.**
 

@@ -1,34 +1,24 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Mihailo</h1>
+<h3 align="center">Full Stack Engineer | Software Architecture Specialist</h3>
+<p align="center">
   <img 
-    src="https://api.daily.dev/devcards/7317ebbb3d0b4219bd8971a9b5513f81.png?r=933" 
-    width="300" 
-    alt="Mihailo Stojkovic's Dev Card"
-    align="right"
+    src="https://komarev.com/ghpvc/?username=mihailokg95&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="Profile views counter"
   />
-
-  <h1>👋 Hi, I'm Mihailo</h1>
-  <h3>Full Stack Engineer | Software Architecture Specialist</h3>
-
-  <p>
-    <img 
-      src="https://komarev.com/ghpvc/?username=mihailokg95&label=Profile%20views&color=0e75b6&style=flat" 
-      alt="Profile views counter"
-    />
-  </p>
-</div>
-
-### 👨‍💻 About Me
-
+</p>
+👨‍💻 About Me
 I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Software Engineering from MEF University. My expertise spans across:
 
-- 🏗️ **Architectures**: Monolithic, Event-driven, Microservices, Serverless, Island Architecture, TDD
-- 🛠️ **Tech Stacks**: MERN, MEAN, JAM, Next.js, t3 stack
-- 🎯 **Specialization**: TypeScript, Modern Web Technologies
-- 💡 **Programming Paradigms**: Functional Programming, OOP
-- 📫 **Contact**: [mstojkovic955@gmail.com](mailto:mstojkovic955@gmail.com)
+🏗️ Architectures: Monolithic, Event-driven, Microservices, Serverless, Island Architecture, TDD
+🛠️ Tech Stacks: MERN, MEAN, JAM, Next.js, t3 stack
+🎯 Specialization: TypeScript, Modern Web Technologies
+💡 Programming Paradigms: Functional Programming, OOP
+📫 Contact: mstojkovic955@gmail.com
 
-### 🛠️ Technical Expertise
-
+<table>
+  <tr>
+    <td valign="top" width="70%">
+🛠️ Technical Expertise
 <h4>Frontend Development</h4>
 <p align="left" style="gap: 20px;">
     <a href="https://reactjs.org/" target="_blank" style="margin-right: 20px;">
@@ -38,13 +28,12 @@ I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Softw
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>
     </a>&nbsp;&nbsp;
     <a href="https://preactjs.com/" target="_blank" style="margin-right: 20px;">
-        <img src="https://preactjs.com/assets/branding/symbol.png" alt="preact" width="50" height="50"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/preact.svg" alt="preact" width="50" height="50"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 20px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
     </a>
 </p>
-
 <h4>Libraries & Data Visualization</h4>
 <p align="left" style="gap: 20px;">
     <a href="https://recharts.org/" target="_blank" style="margin-right: 20px;">
@@ -60,7 +49,6 @@ I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Softw
         <img src="https://rxjs.dev/assets/images/logos/logo.png" alt="rxjs" width="50" height="50"/>
     </a>
 </p>
-
 <h4>Backend Development</h4>
 <p align="left" style="gap: 20px;">
     <a href="https://nodejs.org" target="_blank" style="margin-right: 20px;">
@@ -80,6 +68,9 @@ I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Softw
     </a>
 </p>
 
+<table>
+  <tr>
+    <td valign="top" width="70%">
 <h4>Meta Frameworks</h4>
 <p align="left" style="gap: 20px;">
     <a href="https://nextjs.org/" target="_blank" style="margin-right: 20px;">
@@ -92,7 +83,6 @@ I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Softw
         <img src="https://remix.run/img/remix-logo.svg" alt="remix" width="50" height="50"/>
     </a>
 </p>
-
 <h4>Databases & Messaging</h4>
 <p align="left" style="gap: 20px;">
     <a href="https://www.mysql.com/" target="_blank" style="margin-right: 20px;">
@@ -111,7 +101,6 @@ I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Softw
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/>
     </a>
 </p>
-
 <h4>Cloud & DevOps</h4>
 <p align="left" style="gap: 20px;">
     <a href="https://aws.amazon.com" target="_blank" style="margin-right: 20px;">
@@ -124,7 +113,6 @@ I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Softw
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/>
     </a>
 </p>
-
 <h4>Testing & Monitoring</h4>
 <p align="left" style="gap: 20px;">
     <a href="https://jestjs.io" target="_blank" style="margin-right: 20px;">
@@ -137,23 +125,21 @@ I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Softw
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/>
     </a>
 </p>
-
-### 📊 GitHub Stats
-
-<div align="center">
+📊 GitHub Stats
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mihailokg95&show_icons=true&theme=transparent" 
-    alt="Mihailo's GitHub stats showing commits, contributions, issues, and PRs"
+    alt="Mihailo's GitHub stats"
+    height="165"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihailokg95&layout=compact&theme=transparent" 
-    alt="Most used programming languages in Mihailo's GitHub repositories"
+    alt="Most used languages"
+    height="165"
   />
 </div>
-
-### 🤝 Connect with me
-
-<p align="left" style="gap: 20px;">
+🤝 Connect with me
+<p align="center" style="gap: 20px;">
     <a href="https://linkedin.com/in/mihailo-stojkovic-4330271b2/" target="_blank" style="margin-right: 20px;">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" width="40"/>
     </a>&nbsp;&nbsp;
@@ -164,3 +150,13 @@ I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Softw
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" width="40"/>
     </a>
 </p>
+Copy</td>
+<td valign="top" width="30%">
+  <img 
+    src="https://api.daily.dev/devcards/7317ebbb3d0b4219bd8971a9b5513f81.png?r=933" 
+    width="100%" 
+    alt="Mihailo Stojkovic's Dev Card"
+  />
+</td>
+  </tr>
+</table>

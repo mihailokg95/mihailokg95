@@ -150,7 +150,7 @@ I'm a passionate Full Stack Engineer with a Bachelor of Applied Science in Softw
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" width="40"/>
     </a>
 </p>
-Copy</td>
+</td>
 <td valign="top" width="30%">
   <img 
     src="https://api.daily.dev/devcards/7317ebbb3d0b4219bd8971a9b5513f81.png?r=933" 
